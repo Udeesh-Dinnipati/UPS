@@ -50,7 +50,7 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/UPS.git
+git clone https://github.com/Udeesh-Dinnipati/UPS.git
 cd UPS
 chmod +x ups.py
 ```
