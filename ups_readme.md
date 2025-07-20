@@ -7,7 +7,7 @@
 ║ ║╠═╝╚═╗
 ╚═╝╩  ╚═╝
 
-🔍 UDEESH PORT SCANNER v1.0 🔍
+🔍 UDEESH PORT SCANNER v1.1 🔍
 ```
 
 **A powerful, multi-threaded port scanner for ethical hacking and cybersecurity professionals**
